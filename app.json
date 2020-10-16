@@ -1,0 +1,12 @@
+{
+  "name": "crm-mobile",
+  "displayName": "crm-mobile",
+  "expo": {
+    "name": "crm-mobile",
+    "slug": "crm-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
